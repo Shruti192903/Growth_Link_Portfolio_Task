@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 **Live Demo:** [Shruti Arsode Portfolio]([https://shruti192903.github.io/Growth_Link_Task/](https://shruti192903.github.io/Growth_Link_Portfolio_Task/))
 
-## ✨ Features
+## ✨ Features 
 
 ### Core Sections
 - **Interactive Header** with animated particles background
