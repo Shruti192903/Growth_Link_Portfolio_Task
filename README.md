@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a Computer Science and Engineering student. Built with performance and accessibility in mind.
 
-**Live Demo:** [Shruti Arsode Portfolio]([https://shruti192903.github.io/Growth_Link_Task/](https://shruti192903.github.io/Growth_Link_Portfolio_Task/))
+**Live Demo:** [Shruti Arsode Portfolio](https://shruti192903.github.io/Growth_Link_Portfolio_Task/)
 
 ## ✨ Features 
 
